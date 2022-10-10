@@ -1,0 +1,3 @@
+{
+  "extends": "@pal-land/eslint-config"
+}

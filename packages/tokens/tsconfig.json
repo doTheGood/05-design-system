@@ -1,0 +1,4 @@
+{
+  "extends": "@pal-land/ts-config/base.json",
+  "include": ["src"],
+}
