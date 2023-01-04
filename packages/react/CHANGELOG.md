@@ -1,5 +1,9 @@
 # @pal-land/react
 
+## 2.0.1
+
+- Fix placeholder color on text inputs
+
 ## 2.0.0
 
 ### Major Changes
